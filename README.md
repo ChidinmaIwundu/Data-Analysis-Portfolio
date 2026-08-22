@@ -1,0 +1,1 @@
+A data analyst who started with nothing but Excel and a stubborn need to make sense of numbers — and grew that into a full analytics stack: SQL, Python, Power BI, and Tableau. That Excel-first origin still shapes how I work: I don't trust a dashboard until I've traced every number back to a clean, validated source.
