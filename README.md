@@ -26,8 +26,7 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list a few data analytics projects describing the technology used.
 
 ### Customer Shopping Behaviour
-**Code:** [`Customer_Shopping_behaviour_analysis.ipynb`]
-(https://github.com/ChidinmaIwundu/custm_behaviour/blob/main/Customer_Shopping_behaviour_analysis.ipynb)
+**Code:** [`Customer_Shopping_behaviour_analysis.ipynb`](https://github.com/ChidinmaIwundu/custm_behaviour/blob/main/Customer_Shopping_behaviour_analysis.ipynb)
 
 **Goal:** To determine customers shopping behaviour.
 
@@ -59,8 +58,7 @@ The workflow spans the full analytics stack: Python for cleaning and exploration
 
 
 ### Zepto E-commerce
-**Code:** [`Zepto_SQL_data_analysis.sql`]
-(https://github.com/ChidinmaIwundu/Zepto/blob/main/Zepto_SQL_data_analysis.sql)
+**Code:** [`Zepto_SQL_data_analysis.sql`](https://github.com/ChidinmaIwundu/Zepto/blob/main/Zepto_SQL_data_analysis.sql)
 
 **Description:** This repository demonstrates how product data can be extracted from PostgreSQL and organized into a dataset that can be used for data analysis, SQL practice, data cleaning, exploratory data analysis (EDA), visualization, reporting, and analytics projects.
 
@@ -73,8 +71,7 @@ The workflow spans the full analytics stack: Python for cleaning and exploration
 
 **Goal:** An bike sales project done purely on excel, data cleaning, data analysis and data visualization.
 
-**Code:** [`Excel-Analysis-Bike_Sales`]
-(https://github.com/ChidinmaIwundu/Excel-Analysis-Bike_Sales)
+**Code:** [`Excel-Analysis-Bike_Sales`](https://github.com/ChidinmaIwundu/Excel-Analysis-Bike_Sales)
 
 **Description:** The dataset contains a list of  bike sales. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics all on Excel.
 
@@ -84,10 +81,8 @@ The workflow spans the full analytics stack: Python for cleaning and exploration
 
 
 ## Certificates
-- [Data Analytics Essentials]
-(https://www.credly.com/badges/f06c5229-a7cc-498a-8ddc-03e42dc6564a/public_url) (May 2026) (Coursera - Google)
-- [Data Fundamentals]
-(https://www.credly.com/badges/fd16b722-718d-4036-a344-754e7556862c) (May 2026) (IBM SkillsBuild)
+- [Data Analytics Essentials](https://www.credly.com/badges/f06c5229-a7cc-498a-8ddc-03e42dc6564a/public_url) (May 2026) (Coursera - Google)
+- [Data Fundamentals](https://www.credly.com/badges/fd16b722-718d-4036-a344-754e7556862c) (May 2026) (IBM SkillsBuild)
 
 
 ## Contacts
