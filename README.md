@@ -16,7 +16,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Customer Shopping Behaviour](https://github.com/ChidinmaIwundu/custm_behaviour/blob/main/Customer_Shopping_behaviour_analysis.ipynb)
     - [Walmart Sales Analysis](https://github.com/ChidinmaIwundu/Walmart__dd/blob/main/project.ipynb)  
   - SQL
-    - [Zepto_SQL_data_analysis](https://github.com/ChidinmaIwundu/Zepto/blob/main/Zepto_SQL_data_analysis.sql))
+    - [Zepto_SQL_data_analysis](https://github.com/ChidinmaIwundu/Zepto/blob/main/Zepto_SQL_data_analysis.sql)
   - Excel
     - [Excel-Analysis-Bike_Sales](https://github.com/ChidinmaIwundu/Excel-Analysis-Bike_Sale)
      
